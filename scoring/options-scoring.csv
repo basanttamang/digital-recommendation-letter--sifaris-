@@ -1,0 +1,9 @@
+Criterion,Weight %,A. Improved paper register,B. QR-verifiable digital letter,C. National app integration,0. Do nothing
+Stops fake or altered letters,20,2,5,5,1
+Fewer return trips when the signer is absent (P10),20,1,4,4,1
+Cost to build and run,15,5,3,2,5
+Time to deliver,10,5,3,1,5
+Technical risk,10,5,3,2,5
+Works for citizens without smartphones,15,5,4,2,5
+Staff training needed,10,5,3,3,5
+Weighted total (out of 5),100,3.60,3.75,3.00,3.40
